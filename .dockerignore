@@ -1,0 +1,51 @@
+# Ignore node modules and logs
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Ignore Python cache and virtual environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Ignore build and coverage directories
+build/
+dist/
+coverage/
+*.coverage
+
+# Ignore frontend build files and dependencies
+public/
+*.log
+*.cache
+
+# Ignore temporary files and sensitive information
+*.swp
+*.bak
+*.tmp
+.DS_Store
+*.env
+
+# Ignore version control folders
+.git
+.gitignore
+.svn
+
+# Ignore editor directories and files
+.vscode/
+.idea/
+*.code-workspace
+
+# Ignore compiled files
+*.o
+*.out
+*.class
+*.dll
+*.exe
+*.so
+
+
+
